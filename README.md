@@ -9,6 +9,9 @@ A front-end webpage designed with HTML & CSS describing the benefits of SEO
 ## Installation
 n/a
 
+## Assets
+Use [this link](https://treytaylersmith.github.io/Horiseon-Webpage/) to visit the page.
+
 ## Usage
 
 To showcase semantic elements and organized CSS usage. Open the webpage with Chrome Devtools to view the code and see how it is used practically.
